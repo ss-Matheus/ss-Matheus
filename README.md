@@ -24,7 +24,11 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="www.linkedin.com/in/matheus-silva-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ss-Matheus/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ss-Matheus/ss-Matheus/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/ss-Matheus/ss-Matheus/blob/output/github-contribution-grid-snake.gif)
+
+  
  
 </div>
 
